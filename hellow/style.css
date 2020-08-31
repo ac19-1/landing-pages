@@ -4,6 +4,10 @@
     color: white;
 }
 
+button {
+    outline: none;
+}
+
 body {
     background-color: #242424;
 }
